@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivamshakya2111@gmail.com**
 
-- ⚡ Fun fact **I thin I am funny**
+- ⚡ Fun fact **I want Learn Everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
