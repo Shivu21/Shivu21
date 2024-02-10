@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Back-End, Database, Problem_Solving**
 
-- 💬 Ask me about **Android, Flutter, Dart, Rooted Android**
+- 💬 Ask me about **Android, Flutter, Dart, Java, HTML/CSS, Javascript, Rooted Android**
 
 - 📫 How to reach me **shivamshakya2111@gmail.com**
 
