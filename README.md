@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivu21&label=Profile%20views&color=2a8ac6&style=flat" alt="shivu21" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Flutter,Back-End,Problem_Solving**
+- 🌱 I’m currently learning **Flutter, Back-End, Database, Problem_Solving**
 
 - 💬 Ask me about **Android, Flutter, Dart, Rooted Android**
 
