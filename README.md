@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Shakya</h1>
-<h3 align="center">A passionate Mobile Application Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivu21&label=Profile%20views&color=2a8ac6&style=flat" alt="shivu21" /> </p>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently focused on improving my **Skills** as **Better Software Developer**
 
 - 🌱 I’m currently learning **Flutter, Back-End, Database, Problem_Solving**
 
