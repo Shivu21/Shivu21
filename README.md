@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Shivam Shakya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <div align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivu21&label=Profile%20views&color=2a8ac6&style=flat" alt="shivu21" /> </p>
 
